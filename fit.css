@@ -1,0 +1,19 @@
+body {
+  font-family:"verdana";
+  color:navy
+}
+
+h1 {
+  color:maroon
+}
+h2 {
+  color:brown
+}
+h3,code {
+  color:green
+}
+
+a:hover {
+  background-color:yellow;
+  color:green
+}
